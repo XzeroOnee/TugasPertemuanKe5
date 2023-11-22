@@ -1,5 +1,5 @@
 # lab2py
-Latihan Praktikum Mahasiswa Universitas Pelita Bangsa
+
 <h1>Latihan 1</h1>
 <p>Menjalankan Python Console</p>
 <p>Menampilkan tulisan "Hello" dilayar</p>
